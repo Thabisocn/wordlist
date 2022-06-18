@@ -15,11 +15,9 @@
  https://github.com/ffuf/ffuf
 
 
-# NB
+# NB:Still a work in progress we want a PERFECT WORDLIST
 
-# Still a work in progress we want a PERFECT WORDLIST
-
-## You may also like...
+# You may also like...
 
 - [TrickShot  IO](https://github.com/Thabisoc123/Trickshot) - Trickshot IO app
 
