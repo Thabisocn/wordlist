@@ -1,3 +1,16 @@
+apache-log-parser/
+serveur/apache/logs/
+Bin/xampp17/apache/logs/error.log
+xampp17/apache/logs/error.log
+httpd-userdir.conf.in
+apache/logs/install.log
+apache/logs/
+server/apache/logs/install.log
+server/apache/logs/
+xampp2/apache/logs/access.log
+xampp/apache/logs/access.log
+xampp/apache/logs/error.log
+xampp2/apache/logs/error.log
 App_Browser
 App_Code
 App_Data
