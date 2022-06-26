@@ -1,3 +1,10 @@
+connectionstrings.config
+trace.axd
+.runtimeconfig.json
+.xml
+service.cnf
+wp-admin/includes/ajax-actions.php
+wp-admin/admin-ajax.php
 apache-log-parser/
 serveur/apache/logs/
 Bin/xampp17/apache/logs/error.log
@@ -632,3 +639,4 @@ config.xml
 containerpicker.aspx
 node.xml
 console.log
+wp/v2
