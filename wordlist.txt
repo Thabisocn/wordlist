@@ -1,3 +1,7 @@
+_vti_bin/people.asmx
+_vti_bin/lists.asmx?WSDL
+_vti_bin/Authentication.asmx?op=Mode
+_vti_bin/spdisco.aspx
 connectionstrings.config
 trace.axd
 .runtimeconfig.json
