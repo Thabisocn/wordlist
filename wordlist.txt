@@ -1,3 +1,8 @@
+wp-admin
+wp-cron
+wp-content/debug.log
+xmlrpc.php
+cgi-bin/printenv.pl
 _vti_bin/people.asmx
 _vti_bin/lists.asmx?WSDL
 _vti_bin/Authentication.asmx?op=Mode
@@ -561,6 +566,8 @@ logs.mdb
 syslog/
 log_errors.txt
 phperrors.log
+phpmyadmin
+phpmyadmin/setup
 tmp/sym.php
 .htaccess-dev
 server.xml
