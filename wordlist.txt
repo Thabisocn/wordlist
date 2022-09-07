@@ -1,3 +1,15 @@
+.json
+metrics
+rest/api/2/resolution
+rest/api/2/projectCategory?maxResults=1000
+secure/admin/ViewInstrumentation.jspa
+secure/ViewCollectors
+secure/admin/ImporterFinishedPage.jspa
+rest/gadget/2/createdVsResolved/generate
+rest/api/2/search
+rest/api/2/render
+rest/api/latest/user/avatar/temporary
+docker.yaml
 wp-admin
 wp-cron
 wp-content/debug.log
@@ -86,7 +98,6 @@ sftp-config.json
 .svn/entries
 .svnignore
 upload
-crossdomain.xml
 api/v1/configs/:key
 api/snapshots/:key
 agent/api/v1/configs/:key
