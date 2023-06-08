@@ -1,3 +1,4 @@
+npm-debug.log 
 jsonapi
 jsonapi/user/user
 .json
