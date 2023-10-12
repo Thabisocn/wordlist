@@ -20,7 +20,15 @@
 ```bash
 # Usage with a burpsuite proxy
 
+# Dirbuster wordlist
+
 $ ffuf -w "subs.txt:DOMAIN" -w /home/xii/dirsearch/db/dicc.txt -u https://DOMAIN/FUZZ -t 400 -o ffuzresults2.txt -replay-proxy http://127.0.0.1:8080
+
+# Our wordlist
+
+ffuf -w "subs.txt:DOMAIN" -w /home/xii/Documents/xiii/wordlist/wordlist.txt -u https://DOMAIN/FUZZ -t 400 -o ffuzresults2.txt -replay-proxy http://127.0.0.1:8080
+
+i think you should be able to play around with the wordlist path 
 
 ```
 
