@@ -1,3 +1,5 @@
+phpmyadmin/setup/index.php
+phpMyAdminOLD/setup/index.php
 npm-debug.log 
 jsonapi
 jsonapi/user/user
