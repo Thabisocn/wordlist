@@ -7,14 +7,14 @@
   <br>
 </h1>
 
-#Dorks
+# Dorks
 
 ```bash
 
 site:*/swagger/index.html intext:"Swagger UI"
 
 ```
-#Tool
+# Tool
 
 # FFUF 
  https://github.com/ffuf/ffuf
