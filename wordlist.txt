@@ -1,3 +1,4 @@
+/swagger/index.html
 phpmyadmin/setup/index.php
 phpMyAdminOLD/setup/index.php
 npm-debug.log 
