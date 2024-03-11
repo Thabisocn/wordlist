@@ -7,7 +7,9 @@
   <br>
 </h1>
 
+##Dorks
 
+site:*/swagger/index.html intext:"Swagger UI"
 
 #Tool
 
